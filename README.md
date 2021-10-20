@@ -7,7 +7,7 @@ I have a passion for Functional Programming and I'm always learning new technolo
 - 📚 I'm currently studying bidirectional real time communication with https://socket.io/ at **Trybe**
 - 💻 I'm currently working on side projects with TypeScript
 - 🌱 I recently started learning Svelte
-- 💬 Ask me about anything :smile: You can reach me on my linkedIn below
+- 💬 Ask me about anything :smile: you can reach me on my linkedIn
 
 <br>
 
