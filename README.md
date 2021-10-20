@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there, I'm **Rafael Medeiros**,  and right now I work at  **Trybe** as **Summer Instructor**  🚀
 
-<!--
-**RafaelMedeirosGomes/RafaelMedeirosGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a passion for Functional Programming and I'm always learning new technologies
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm currently studying bidirectional real time communication with https://socket.io/ at **Trybe**
+- 💻 I'm currently working on side projects with TypeScript
+- 🌱 I recently started learning Svelte
+- 💬 Ask me about anything :smile: You can reach me on my linkedIn below
+
+<br>
+
+<a href="https://github.com/RafaelMedeirosGomes" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a>
+<a href="https://www.linkedin.com/in/rafael-medeiros-gomes/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
