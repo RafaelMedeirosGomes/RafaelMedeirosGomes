@@ -1,12 +1,12 @@
-### Hello there, I'm **Rafael Medeiros**,  and right now I work at  **Trybe** as **Summer Instructor**  🚀
+### Hello there, I'm **Rafael Medeiros**,  and right now I'm looking for a job
 
 I have a passion for Functional Programming and I'm always learning new technologies
 
 <br>
 
-- 📚 I'm currently studying Object Oriented Programming at **Trybe**
-- 💻 I'm currently working on side projects with TypeScript
-- 🌱 I recently started learning GraphQL
+- 📚 I'm currently studying Haskell
+- 💻 I'm currently working on side projects for my portfolio
+- 🌱 I recently started learning Firebase
 - 💬 Ask me about anything :smile: you can reach me on my linkedIn
 
 <br>
