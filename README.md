@@ -1,4 +1,4 @@
-### Hello there, I'm **Rafael Medeiros**,  and right now I'm looking for a job
+### Hello there, I'm **Rafael Medeiros**,  and right now I work at Trybe as Instructor
 
 I have a passion for Functional Programming and I'm always learning new technologies
 
