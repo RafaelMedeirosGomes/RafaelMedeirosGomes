@@ -5,7 +5,7 @@
     I have a passion for Functional Programming and I'm always learning new technologies
   </p>
   <ul>
-    <li> 📚 I'm currently studying Elm </li>
+    <li> 📚 I'm currently studying Programming Logic </li>
   </ul>
 </section>
 
